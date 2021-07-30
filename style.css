@@ -1,0 +1,37 @@
+body{
+    background-image: url(./imagenes/pexels-dids-1319803.jpg);
+    background-size: cover;
+    background-position: center center; 
+    background-attachment: fixed;
+    font-family: 'Baloo Chettan 2', cursive;
+}
+
+img {
+    max-width: 120px;
+    border-style: solid;
+    border-radius: 60px;
+    border-color:white;
+    border-width: 5px;
+    display: block;
+    margin: auto;
+    margin-top: 10vw;
+}
+
+.fondo{
+    margin-top: 10vw;
+    background-color: rgba(242, 245, 242, 0.664);
+}
+
+h1{
+    font-size: 40px;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    font-size: 36px;
+    color:black;
+    display: flex;
+    justify-content: center;
+}
